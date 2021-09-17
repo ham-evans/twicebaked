@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5d618b3c.chunk.css",
+    "main.js": "/static/js/main.dffea185.chunk.js",
+    "main.js.map": "/static/js/main.dffea185.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b2436753.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b2436753.js.map",
+    "static/js/2.b39ecbc8.chunk.js": "/static/js/2.b39ecbc8.chunk.js",
+    "static/js/2.b39ecbc8.chunk.js.map": "/static/js/2.b39ecbc8.chunk.js.map",
+    "static/js/3.87284b4e.chunk.js": "/static/js/3.87284b4e.chunk.js",
+    "static/js/3.87284b4e.chunk.js.map": "/static/js/3.87284b4e.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.5d618b3c.chunk.css.map": "/static/css/main.5d618b3c.chunk.css.map",
+    "static/js/2.b39ecbc8.chunk.js.LICENSE.txt": "/static/js/2.b39ecbc8.chunk.js.LICENSE.txt",
+    "static/media/Apollo21.d58a3068.png": "/static/media/Apollo21.d58a3068.png",
+    "static/media/GATB-website-gif.d4b6f398.gif": "/static/media/GATB-website-gif.d4b6f398.gif",
+    "static/media/ManuArtist.6df9e3b1.png": "/static/media/ManuArtist.6df9e3b1.png",
+    "static/media/about1.d8eabb58.png": "/static/media/about1.d8eabb58.png",
+    "static/media/about2.092f0e43.png": "/static/media/about2.092f0e43.png",
+    "static/media/about3.4518b945.png": "/static/media/about3.4518b945.png",
+    "static/media/about4.a11797f0.png": "/static/media/about4.a11797f0.png",
+    "static/media/beer.e61cdf53.png": "/static/media/beer.e61cdf53.png",
+    "static/media/Home.css": "/static/media/bgGiraffeMobile.5f0f407f.png",
+    "static/media/dragonArtist.b49293b3.png": "/static/media/dragonArtist.b49293b3.png",
+    "static/media/gin.83975e16.png": "/static/media/gin.83975e16.png",
+    "static/media/goldenx.390a9bcd.png": "/static/media/goldenx.390a9bcd.png",
+    "static/media/info.46607e68.png": "/static/media/info.46607e68.png",
+    "static/media/logo.f5914d2b.png": "/static/media/logo.f5914d2b.png",
+    "static/media/pattern.09677e4a.png": "/static/media/pattern.09677e4a.png",
+    "static/media/squeebo.3dca141d.png": "/static/media/squeebo.3dca141d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b2436753.js",
+    "static/js/2.b39ecbc8.chunk.js",
+    "static/css/main.5d618b3c.chunk.css",
+    "static/js/main.dffea185.chunk.js"
+  ]
+}
